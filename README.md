@@ -1,6 +1,6 @@
 # MARVEL Rivals
 
-##Jogo de Cartas da Marvel 
+### Jogo de Cartas da Marvel 
 ---
 # 🎴 Marvel Rivals – Card Game
 
